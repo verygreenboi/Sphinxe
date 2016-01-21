@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Android-Essentials-V1.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/com.github.Glassstone-Solutions/Android-Essentials/V1.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/com.github.Glassstone-Solutions/Android-Essentials/V1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DealCard">
+        <attr name="dealTitle" format="string" />
+        <attr name="dealSubtitle" format="string" />
+        <attr name="dealMoreBtnTitle" format="string" />
+        <attr name="buttonText" format="string" />
+        <attr name="buttonTag" format="string" />
+        <attr name="hasImage" format="boolean" />
+        <attr name="dealImage" format="integer" />
+    </declare-styleable>
+</resources>
